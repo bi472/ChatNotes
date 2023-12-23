@@ -21,3 +21,6 @@ git clone https://github.com/bi472/ChatNotes
 npm install -g @ionic/cli
 npm install
 ionic serve
+```
+
+## [Веб-версия приложения](https://awesome-borg-3113a3.netlify.app/#/notes)
