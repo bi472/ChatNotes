@@ -1,21 +1,23 @@
-# Chaotes
+# ChatNotes
 
-A lot of people apparently like using whatsapp, slack messengers for storing their notes.
+## Описание
+ChatNotes - это мобильное приложение с открытым исходным кодом для создания и управления заметками. Оно сочетает в себе удобство мессенджеров с функциональностью приложений для заметок.
 
-So, an open source app to cover the same use case - benefits being you are free to customize this as much as you want!
+## Особенности
+- Создание и отправка заметок
+- Добавление заметок в избранное
+- Поиск по заметкам
+- Удаление и восстановление заметок
 
-Fork it, make a pull request, do whatever you want with this!
+## Технологии
+- Ionic
+- Angular
+- Firebase
+- Capacitor
 
-built with ionic.
-
-To see the running version inside a browser - 
-[App](https://awesome-borg-3113a3.netlify.app/#/notes)
-
-
-## To run this
-
-Just do - 
-
-- install ionic cli
-- npm install
-- ionic serve
+## Установка и запуск
+```bash
+git clone https://github.com/bi472/ChatNotes
+npm install -g @ionic/cli
+npm install
+ionic serve
